@@ -1,0 +1,17 @@
+.form-container{
+    padding: 20px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    max-width: 400px;
+}
+
+.form-control {
+    width: 380px;
+  }
+
+  .container{
+    justify-content: center; display: flex; align-items: center;
+  }
+  .h3{
+    padding-top: 3px;
+  }
